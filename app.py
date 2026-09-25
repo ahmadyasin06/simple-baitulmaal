@@ -9,8 +9,8 @@ st.set_page_config(page_title="Shadman Town Bait ul Maal", page_icon="🕌", lay
 # ─────────────────────────────────────────────
 #  ✏️  STEP 1 – CHANGE USERNAME & PASSWORD HERE
 # ─────────────────────────────────────────────
-ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "password123"
+ADMIN_USERNAME = "ahmadyasin"
+ADMIN_PASSWORD = "Jamiat@st123"
 
 # ─────────────────────────────────────────────
 #  ✏️  STEP 2 – ADD YOUR ANAT MUAWINEEN HERE
