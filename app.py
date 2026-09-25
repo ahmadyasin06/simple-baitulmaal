@@ -18,11 +18,29 @@ ADMIN_PASSWORD = "Jamiat@st123"
 #  address, amount, notes are optional – leave "" or 0 if not needed
 # ─────────────────────────────────────────────
 ANAT_MUAWINEEN = [
-    {"sr": 1, "name": "Ahmed Khan",      "phone": "+92 335 2508202", "address": "House 5, Block A, Shadman Town", "amount": 5000,  "notes": "Monthly"},
-    {"sr": 2, "name": "Sara Begum",      "phone": "03211234567", "address": "House 12, Block B",              "amount": 3000,  "notes": ""},
-    {"sr": 3, "name": "Muhammad Ali",    "phone": "03331234567", "address": "",                                "amount": 2500,  "notes": "Quarterly"},
-    {"sr": 4, "name": "Fatima Bibi",     "phone": "03451234567", "address": "House 8, Block C, Shadman",      "amount": 0,     "notes": ""},
-    {"sr": 5, "name": "Khalid Mehmood",  "phone": "03121234567", "address": "House 20, Block D",              "amount": 4000,  "notes": ""},
+    {"sr":  1, "name": "Navid Israr",                    "phone": "03343800227", "address": "",       "amount": 500,  "notes": ""},
+    {"sr":  1, "name": "Tariq Nisar",                    "phone": "+92 321 2922397", "address": "",       "amount": 1000,  "notes": ""},
+    {"sr":  2, "name": "Anas Bhai",                      "phone": "03352482747", "address": "",       "amount": 0,    "notes": ""},
+    {"sr":  3, "name": "Musab Tariq",                    "phone": "03161333131", "address": "ONLINE", "amount": 500,  "notes": ""},
+    {"sr":  4, "name": "Safdar Zaman",                   "phone": "03333738618", "address": "",       "amount": 500,  "notes": ""},
+    {"sr":  5, "name": "Ayehsa Aunty (Asad Bilal Ammi)", "phone": "03222381648", "address": "",       "amount": 1000, "notes": ""},
+    {"sr":  6, "name": "Ali Bhai",                       "phone": "-",           "address": "",       "amount": 0,    "notes": ""},
+    {"sr":  7, "name": "Umair Talha",                    "phone": "03343131012", "address": "",       "amount": 500,  "notes": ""},
+    {"sr":  8, "name": "Fawad Jilani",                   "phone": "03322171456", "address": "",       "amount": 500,  "notes": ""},
+    {"sr":  9, "name": "Hafiz Ibrahim Ammi",             "phone": "03142342394", "address": "",       "amount": 500,  "notes": ""},
+    {"sr": 10, "name": "Ahsan Jawed",                    "phone": "03212406579", "address": "",       "amount": 500,  "notes": ""},
+    {"sr": 11, "name": "Khairul Wara Aunty",             "phone": "03350244138", "address": "",       "amount": 0,    "notes": ""},
+    {"sr": 12, "name": "Faseh Uncle",                    "phone": "-",           "address": "",       "amount": 0,    "notes": ""},
+    {"sr": 13, "name": "Walee Muhammad Sahab",           "phone": "-",           "address": "",       "amount": 0,    "notes": ""},
+    {"sr": 14, "name": "Muneeb Bhai",                    "phone": "03343941620", "address": "",       "amount": 500,  "notes": ""},
+    {"sr": 15, "name": "Eras Bhai",                      "phone": "03422578811", "address": "",       "amount": 500,  "notes": ""},
+    {"sr": 16, "name": "Tahira Jilani",                  "phone": "-",           "address": "",       "amount": 0,    "notes": ""},
+    {"sr": 17, "name": "Saad Bhai",                      "phone": "03249230078", "address": "",       "amount": 500,  "notes": ""},
+    {"sr": 18, "name": "Osama Manzar",                   "phone": "03326887571", "address": "",       "amount": 500,  "notes": ""},
+    {"sr": 19, "name": "Ahmed",                          "phone": "03350244138", "address": "",       "amount": 0,    "notes": ""},
+    {"sr": 20, "name": "Qazi Musab",                     "phone": "03467638419", "address": "",       "amount": 500,  "notes": ""},
+    {"sr": 21, "name": "Safeet Ahmed",                   "phone": "03366853138", "address": "",       "amount": 300,  "notes": ""},
+    {"sr": 22, "name": "Hanzala Hadeed",                 "phone": "031613322131","address": "",       "amount": 300,  "notes": ""},
 ]
 
 # ─────────────────────────────────────────────
@@ -30,8 +48,8 @@ ANAT_MUAWINEEN = [
 #  Same format as above
 # ─────────────────────────────────────────────
 FUND_MUAWINEEN = [
-    {"sr": 1, "name": "Bilal Ahmed",     "phone": "03001112222", "address": "House 3, Shadman Town",   "amount": 10000, "notes": "Donor"},
-    {"sr": 2, "name": "Zainab Malik",    "phone": "03211112222", "address": "House 7, Block A",        "amount": 7500,  "notes": ""},
+    {"sr": 1, "name": "Raheel Bhai ",     "phone": "+92 331 2000693", "address": "House 3, Shadman Town",   "amount": 1500, "notes": "Anat-1000, 500-Fund"},
+    {"sr": 2, "name": "Talha Bhai",    "phone": "+92 332 3561358", "address": "House 7, Block A",        "amount": 1000,  "notes": "Fund"},
     {"sr": 3, "name": "Usman Ghani",     "phone": "03331112222", "address": "",                         "amount": 5000,  "notes": "Monthly donor"},
 ]
 
