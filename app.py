@@ -50,7 +50,7 @@ ANAT_MUAWINEEN = [
 FUND_MUAWINEEN = [
     {"sr": 1, "name": "Raheel Bhai ",     "phone": "+92 331 2000693", "address": "House 3, Shadman Town",   "amount": 1500, "notes": "Anat-1000, 500-Fund"},
     {"sr": 2, "name": "Talha Bhai",    "phone": "+92 332 3561358", "address": "House 7, Block A",        "amount": 1000,  "notes": "Fund"},
-    {"sr": 3, "name": "Usman Ghani",     "phone": "03331112222", "address": "",                         "amount": 5000,  "notes": "Monthly donor"},
+    {"sr": 3, "name": "Shomail Talha",     "phone": "+92 333 3394211", "address": "",                         "amount": 3000,  "notes": "After 2-3 months"},
 ]
 
 # ─────────────────────────────────────────────
