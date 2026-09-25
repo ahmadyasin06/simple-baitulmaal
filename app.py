@@ -18,7 +18,7 @@ ADMIN_PASSWORD = "password123"
 #  address, amount, notes are optional – leave "" or 0 if not needed
 # ─────────────────────────────────────────────
 ANAT_MUAWINEEN = [
-    {"sr": 1, "name": "Ahmed Khan",      "phone": "03001234567", "address": "House 5, Block A, Shadman Town", "amount": 5000,  "notes": "Monthly"},
+    {"sr": 1, "name": "Ahmed Khan",      "phone": "+92 335 2508202", "address": "House 5, Block A, Shadman Town", "amount": 5000,  "notes": "Monthly"},
     {"sr": 2, "name": "Sara Begum",      "phone": "03211234567", "address": "House 12, Block B",              "amount": 3000,  "notes": ""},
     {"sr": 3, "name": "Muhammad Ali",    "phone": "03331234567", "address": "",                                "amount": 2500,  "notes": "Quarterly"},
     {"sr": 4, "name": "Fatima Bibi",     "phone": "03451234567", "address": "House 8, Block C, Shadman",      "amount": 0,     "notes": ""},
